@@ -11,5 +11,31 @@
     "repositories" : 208,
     "isGDE" : true
   },
-
+  "articles" : [
+    {
+      "id" : 1,
+      "title" : "How to be a good developer",
+      "subtitle" : "This is a subtitle"
+    },
+    {
+      "id" : 2,
+      "title" : "Making a good portfolio",
+      "subtitle" : "This is a subtitle"
+    },
+    {
+      "id" : 3,
+      "title" : "Creating a good website",
+      "subtitle" : "This is a subtitle"
+    }
+  ],
+  "contacts" : {
+    "1" : {
+      "name" : "Jhonathan",
+      "contact" : "081234567890"
+    },
+    "2" : {
+      "name" : "Doe",
+      "contact" : "081234567890"
+    }
+  }
 }
