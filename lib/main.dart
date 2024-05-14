@@ -50,7 +50,7 @@ class _MyAppState extends State<MyApp> {
               Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: Text(
-                  '$result',
+                  '${result?.github?.username}',
                   style: const TextStyle(
                     fontSize: 22.0,
                   ),
